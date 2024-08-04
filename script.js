@@ -73,8 +73,9 @@ var swiper = new Swiper('.swiper', {
 
 
 
+
 //catalog product
-  const catalog = document.querySelector('.catalog');
+const catalog = document.querySelector('.catalog');
   const prevBtn = document.querySelector('.catalog-prev');
   const nextBtn = document.querySelector('.catalog-next');
 
